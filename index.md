@@ -1,6 +1,6 @@
 
 ## Ayo Oyedele
-**Creative technologist with teaching, technical and artistic skills**  
+**Global studies and business management university student developing technical skills within the Navigating the Digtal World Module **  
 
 Hello! My name is Krisztian Hofstadter, aka tEdör. 
 
