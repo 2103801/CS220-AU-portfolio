@@ -2,7 +2,7 @@
 ## Ayo Oyedele
 **Global studies and business management university student developing technical skills within the Navigating the Digtal World Module **  
 
-Hello! My name is Krisztian Hofstadter, aka tEdör. 
+Hello! My name is Ayomide Oyedele, aka Ayo. 
 
 I am a creative technologist working as a researcher, lecturer, freelancer and artist. Besides working on the Enhancing Audio Description project as a research assistant, my doctoral research developed brain-computer music interfaces for meditation, in which I link neurofeedback to auditory entrainment in generative soundscapes inspired by shamanic journeying. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
 
