@@ -49,16 +49,12 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-- 2021-10-19 minor grammar and logic changes. 
-- 2021-10-16 testing fork from kris-dummy account. Testing notifications in forked repos. 
-- 2021-10-11 one peer assessment instead of two needed.
-- 2021-10-07 to have an originality report from FASER, students need to submit the DI reflection as PDF. They can still add this reflection to their GitHub repositories as an additional website if they would like to. The submit.md file is changed to final-check.md. All files changed to reflect these changes. 
-- 2021-10-06 README.md refined with clearer overview. Change from submitting in PDF to submitting in .md (submit.md). 
-- 2021-10-05 submit.md refined (raw rubric sheet in excel file and converted with https://www.convertcsv.com/csv-to-markdown.htm. All text checked with free Grammarly and ProWritingAid
-- 2021-10-03 di-reflection simplified. submit.md simplified. index.md simplified
-- 2021-10-01 assessment.md renamed to submit.md. reflection.md renamed to di-reflection.md. Links added to CS220 repo and files were fine-tuned
-- 2021-09-24 index.md, reflection.md and assessment.md added. readme.md refined
-- 2021-09-21 repo created. readme.md added and next steps in the todo heading defined
+
+- 13-10-2021 introduction to the module 
+- 20-10-2021 creation of github account, created repositories and started to think about ideas for my website. 
+- 27-10-2021 talked about what makes a good website domain and the good softwares and websites to use when it comes to making a website. 
+- 29-10-2021 started to work on my website and plan what I will include to make it look professional and for it to be good quality.
+- 5-11-2021 planning of what my essay will be about.
 
 <br>
 
