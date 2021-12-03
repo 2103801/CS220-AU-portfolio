@@ -48,7 +48,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 <br>
 
-## Log
+## LOG
 
 - 13-10-2021 introduction to the module 
 - 20-10-2021 creation of github account, created repositories and started to think about ideas for my website. 
