@@ -55,6 +55,8 @@ How to use this GitHub repository as a template for your submission, including h
 - 27-10-2021 talked about what makes a good website domain and the good softwares and websites to use when it comes to making a website. 
 - 29-10-2021 started to work on my website and plan what I will include to make it look professional and for it to be good quality.
 - 5-11-2021 planning of what my essay will be about.
+- 12-11-2021 
+- 
 
 <br>
 
