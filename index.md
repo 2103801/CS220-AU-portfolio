@@ -85,4 +85,3 @@ Here an example to embed a video:
 
 <br><br> 
 
-My full CV can be found [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
