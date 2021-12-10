@@ -19,7 +19,7 @@ Note: only link social media that you are happy for people to visit i.e. if your
 <br>
 
 ## contact
-- k[dot]hofstadter[at]essex[dot]co[dot]uk
+- https://www.linkedin.com/in/ayomide-oyedele-bba66b227/ 
 - kris[at]khofstadter[dot]com
 
 <br>
