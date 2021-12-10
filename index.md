@@ -11,8 +11,8 @@ I am a first year student, studying Global studies with business management at t
 <br>
 
 ## social media links
-- [LinkedIn](https://www.linkedin.com/in/tedor)
-- [YouTube](https://www.youtube.com/c/Hofst%C3%A4dterKriszti%C3%A1n_tEd%C3%B6r/videos)
+- [LinkedIn](https://www.linkedin.com/in/ayomide-oyedele-bba66b227/)
+
 
 Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
