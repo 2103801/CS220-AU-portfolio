@@ -1,6 +1,5 @@
 
-## Ayo Oyedele
-# Global studies and business management university student developing technical skills within the Navigating the Digtal World Module   
+## Ayomide Oyedele  
 
 Hello! My name is Ayomide Oyedele, aka Ayo. 
 
