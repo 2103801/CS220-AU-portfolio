@@ -40,15 +40,17 @@ I am a first year student, studying Global studies with business management at t
 
 ## work experience
 Alongside my previous and current studies I have been employed in retail jobs that have helped me develop important skills that can be adapted to any workplace. These include customer service skills, punctuality, teamworking skills, leadership skills and I developed a significant level independence. 
-### research assistant positions
-#### StoryLab Research Institute
 
-11/2017 - 08/2021 &nbsp; &nbsp; ARU
+### retail assistant positions
 
-Besides my key responsibilities as a webmaster designing and maintaining the research institute's website ([http://storylabresearch.com](http://storylabresearch.com)), I have also been involved in organising events, social media engagement, data analysis, content editing, photography and audio-video post-production.
+10/2021 - Present &nbsp; &nbsp; Marks and Spencer
 
-#### Enhancing Audio Description project
-01/2018 – 04/2019 &nbsp; &nbsp; University of York, Theatre, Film and Television Department  
+Working as a customer assistant to help customers process their transactions at the tills, ensuring that the store is neat and tidy by clearing sale items etc. Worked at both the food and clothing sections to develop skills.
+
+
+  10/2020– 10/2021 &nbsp; &nbsp; TK Maxx
+Having the responsibility of a department and ensuring it always looks presentable. Talking to customers about products and serving them at the tills. Overall, aiming to ensure they have a good shopping experience.
+  
 04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
 
 My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
