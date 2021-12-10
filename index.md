@@ -48,7 +48,7 @@ Alongside my previous and current studies I have been employed in retail jobs th
 Working as a customer assistant to help customers process their transactions at the tills, ensuring that the store is neat and tidy by clearing sale items etc. Worked at both the food and clothing sections to develop skills.
 
 
-  10/2020– 10/2021 &nbsp; &nbsp; TK Maxx
+ 10/2020 – 10/2021 &nbsp; &nbsp; TK Maxx
   
 Having the responsibility of a department and ensuring it always looks presentable. Talking to customers about products and serving them at the tills. Overall, aiming to ensure they have a good shopping experience.
   
