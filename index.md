@@ -1,10 +1,10 @@
 
 ## Ayomide Oyedele  
+#### Global studies with Business Management student at the University of Essex
 
 Hello! My name is Ayomide Oyedele, aka Ayo. 
 
-I am a first year student, studying Global studies with business management at the University of Essex. Alongside my studies, I have a part time job which I use to support myself financially. I have also been teaching music technology-related subjects (e.g. sonic art, sensor technology and music for the moving image) as an associate lecturer at the Anglia Ruskin University, Cambridge and the University of Bedfordshire and currently teach a module on sensemaking and digital identities at the School of Philosophy and Arts History at the University of Essex. As a freelancer and artist, I have been producing sound design and music, websites and visual art, including photography and paintings. 
-
+I am a first year student, studying Global studies with business management at the University of Essex. I have a lot of interest in the business and tech world which is part of the reason I chose to do this course and more specifically, this module. This module is allowing me to develop my technological skills that will be beneficial to me in the future, based on the career path I want to go down. 
 
 
 <br>
@@ -13,18 +13,11 @@ I am a first year student, studying Global studies with business management at t
 - [LinkedIn](https://www.linkedin.com/in/ayomide-oyedele-bba66b227/)
 
 
-
 <br>
 
 ## contact
 - [email](ayomi.oyedele@gmail.com)
 
-
-<br>
-
-## acedemic pages/associations/clubs
-- [Essex Staff Page](https://www.essex.ac.uk/people/HOFST49102/krisztian-hofstadter)
-- [StoryLab Team Page](https://storylabresearch.com/team/)
 
 <br>
 
@@ -59,15 +52,6 @@ Besides my key responsibilities as a webmaster designing and maintaining the res
 
 My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
 
-<br>
-
-### associate lecturing positions
-
-#### Sonic art (ARU)
-01/2019 – 06/2019  &nbsp; &nbsp; A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas. 
-
-#### Music for the moving image (ARU)
-09/2016 – 01/2017; 09/2017 – 01/2018; 09/2018 – 01/2019 &nbsp; &nbsp; A 15 credit module that allowed students to create original music and sound design linked to poetry, short films and video games using acoustic and computer-based methods of composition.
 
 <br>
 
