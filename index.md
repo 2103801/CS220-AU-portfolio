@@ -18,7 +18,7 @@ I am a first year student, studying Global studies with business management at t
 <br>
 
 ## contact
-- [email] (ayomi.oyedele@gmail.com)
+- [email](ayomi.oyedele@gmail.com)
 
 
 <br>
