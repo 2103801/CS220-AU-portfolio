@@ -28,7 +28,7 @@ I am a first year student, studying Global studies with business management at t
 
 <br>
 
-## educations
+## education
 
 | date | degree | institute |
 --- | --- | ---
@@ -39,6 +39,7 @@ I am a first year student, studying Global studies with business management at t
 <br>
 
 ## work experience
+Alongside my previous and current studies I have been employed in retail jobs that have helped me develop important skills that can be adapted to any workplace. These include customer service skills, punctuality, teamworking skills, leadership skills and I developed a significant level independence. 
 ### research assistant positions
 #### StoryLab Research Institute
 
