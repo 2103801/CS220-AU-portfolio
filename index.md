@@ -14,13 +14,12 @@ I am a first year student, studying Global studies with business management at t
 - [LinkedIn](https://www.linkedin.com/in/ayomide-oyedele-bba66b227/)
 
 
-Note: only link social media that you are happy for people to visit i.e. if your website gives information about a professional service, you should not link it to your social media account which is primarily for your personal use.
 
 <br>
 
 ## contact
-- https://www.linkedin.com/in/ayomide-oyedele-bba66b227/ 
-- kris[at]khofstadter[dot]com
+- ayomi.oyedele@gmail.com
+
 
 <br>
 
