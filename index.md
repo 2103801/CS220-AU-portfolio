@@ -30,12 +30,9 @@ I am a first year student, studying Global studies with business management at t
 <br>
 
 ## now
-- I just wrote a template for my students' [di-reflection](di-reflection.md)
-- working as a post-grad research assistant on [EAD](http://enhancingaudiodescription.com/)
-- running the [CSS220 module] (https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) at the University of Essex
-- making my final amendments to the my doctoral thesis on [BCMI](https://bcmi.khofstadter.com/)
-- working with Cambridge based educator, visual artist, [Rhea Quien](http://rq-art.com/)
-- resuming the [Tedor Tea](http://tedortea.com/) project linking Chinese tea to local art
+- I have just completed my first term as a first year student in the University of Essex.
+- Studying the [CSS220 module] in which I have created my own professional website (https://2103801.github.io/CS220-AU-portfolio/) at the University of Essex.
+- Studying 3 other modules in my course that cover history, business and philosophy topics.
 
 <br>
 
@@ -43,10 +40,9 @@ I am a first year student, studying Global studies with business management at t
 
 | date | degree | institute |
 --- | --- | ---
-|ongoing|**Ph.D.** in Music |ARU, Cambridge School of Creative Industries|
-| ongoing | **PG Certificate** in Learning and Teaching <br> in Higher Education | ARU, School of Education and Social Care
-| 2013 | **MA** in Creative Music Technology for Media | ARU, Music and Performing Arts Department
-| 2009 | **BA** (Hons) - Creative Music Technology (1st) | ARU, Music and Performing Arts Department  |
+|ongoing|**Undergraduate** in Global Studies with Business Management |School of Philosophy and Art History, University of Essex|
+| 2021 | **A-Levels** in Geography, Business Studies and Sociology <br> in Higher Education | St. Paul's Catholic School, Milton Keynes
+| 2019 | **GCSEs**  9 subjects graded 5 and above including English, Maths and Science | Oakgrove School, Milton Keynes
 
 <br>
 
