@@ -49,21 +49,19 @@ Working as a customer assistant to help customers process their transactions at 
 
 
   10/2020– 10/2021 &nbsp; &nbsp; TK Maxx
+  
 Having the responsibility of a department and ensuring it always looks presentable. Talking to customers about products and serving them at the tills. Overall, aiming to ensure they have a good shopping experience.
   
-04/2016 – 10/2017 &nbsp; &nbsp; Cultures of the Digital Economies (CoDE) Research Institute, ARU  
+10/2019 – 03/2020 &nbsp; &nbsp; Flair Recruitment Ltd.
 
-My key responsibilities in this role included organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web design and maintenance, photography, audio-video production and co-authoring journal papers. The project is documented at [http://enhancingaudiodescription.com](http://enhancingaudiodescription.com).
-
+Traffic stopping to talk to customers about fragrances and cosmetic products, advising customers on products to buy and persuading them to purchase them, setting sales targets and achieving them. 
 
 <br>
 
 ## other relevant experience
-### music technical officer at ARU
-03/2015 – 04/2016 &nbsp; &nbsp; My key responsibilities were maintaining music, computer and audio resources, giving efficient and flexible technical support to students and staff as well as organising academic conferences and events.
+### sales advisor at Steven Eagell Toyota
+07/2018 – 09/2018 &nbsp; &nbsp; My key responsibilities were answering the telephone, inputting accounts onto a database, going on test drives with other members of the team, persuading the customers to buy cars, filing and some reception work.
 
-### sole trader at Tedör Tea
-2015 – ongoing &nbsp; &nbsp; I have been operating an independent tea company set up in Cambridge that imports health-giving Chinese teas and combines it with a variety of artworks produced by local artists. More info at [http://tedortea.com](http://tedortea.com).
 
 <br>
 
