@@ -1,4 +1,4 @@
-Student number: <!-- #todo : add your student number -->    
+Student number: <!-- #todo : add your student number -->    2103801
 Module code: CS220 AU  
 Coursework title: Digital Portfolio  
 Marker: Krisztian Hofstadter  
