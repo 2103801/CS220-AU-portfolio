@@ -37,11 +37,6 @@ But, before you submit, please rename both files to contain your student number 
 
 ![](assets/img/portfolio-graph.png)
 
-
-### Flexibilities 
-1. you can have more than two pages on your website if needed
-2. your website can be made with another content management system (CMS) e.g. WordPress instead of GitHub Pages (just make sure you provide a link to your website.)
-
 <br> 
 
 How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
@@ -56,7 +51,9 @@ How to use this GitHub repository as a template for your submission, including h
 - 29-10-2021 started to work on my website and plan what I will include to make it look professional and for it to be good quality.
 - 5-11-2021 planning of what my essay will be about.
 - 12-11-2021 changed the theme of my website to give it more personality
-- 05-12-2021 
+- 05-12-2021 starting to draft essay
+- 10-12-2021 completed essay
+- 12-12-2021 finished website (basic, still need to add images, considering adding another page for essay)
 - 
 
 <br>
@@ -64,7 +61,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 ### week 3
 - create LinkedIn account for social media link
-### week 4 - websites
+### week 4 - website
 #### index.md
 - plan out website
 - consider potential images/videos needed if necessary
@@ -75,9 +72,3 @@ How to use this GitHub repository as a template for your submission, including h
 ## by week 12
 - complete at least half of the essay
 - have most of website completed, just add final touches e.g images or links
-
-<br>
-
-## References
-- White, D., 2013, Visitors and Residents, [http://daveowhite.com/vandr/vr-mapping/](http://daveowhite.com/vandr/vr-mapping/)
-- Hofstadter, K., 2019, [Self and peer assessment tool and rationale](https://khofstadter.com/assets/doc/Hofstadter-2019-self-and-peer-assessment-tool-and-rationale.pdf).
