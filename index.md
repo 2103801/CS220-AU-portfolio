@@ -1,8 +1,6 @@
 
 ## Ayomide Oyedele  
-
 <br>
-
 Hello! My name is Ayomide Oyedele, aka Ayo. 
 
 I am a first year student, studying Global studies with business management at the University of Essex. I have a lot of interest in the business and tech world which is part of the reason I chose to do this course and more specifically, this module. This module is allowing me to develop my technological skills that will be beneficial to me in the future, based on the career path I want to go down. 
