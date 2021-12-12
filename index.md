@@ -1,6 +1,5 @@
 
 ## Ayomide Oyedele  
-#### Global studies with Business Management student at the University of Essex
 
 Hello! My name is Ayomide Oyedele, aka Ayo. 
 
