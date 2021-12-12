@@ -5,8 +5,13 @@ Hello! My name is Ayomide Oyedele, aka Ayo.
 
 I am a first year student, studying Global studies with business management at the University of Essex. I have a lot of interest in the business and tech world which is part of the reason I chose to do this course and more specifically, this module. This module is allowing me to develop my technological skills that will be beneficial to me in the future, based on the career path I want to go down. 
 
+<br>
+This video is an exmaple of why I chose this course as I believe that it could help me to achieve my desire of working my dream job. 
+
+<iframe width="560" height="315" src="https://youtu.be/e9WbMdqMOxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
 
 ## social media links
 - [LinkedIn](https://www.linkedin.com/in/ayomide-oyedele-bba66b227/)
@@ -64,9 +69,6 @@ Traffic stopping to talk to customers about fragrances and cosmetic products, ad
 
 
 <br>
-This video is an exmaple of why I chose this course as I believe that it could help me to achieve my desire of working my dream job. 
-
-<iframe width="560" height="315" src="https://youtu.be/e9WbMdqMOxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br> 
 
