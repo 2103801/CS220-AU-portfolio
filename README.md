@@ -33,14 +33,6 @@ But, before you submit, please rename both files to contain your student number 
 1. 0610279-di-reflection.pdf
 2. 0610279-final-check.md
 
-<br> 
-
-![](assets/img/portfolio-graph.png)
-
-<br> 
-
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in the workshops. If anything is unclear, ask for clarification in class or privately in my academic support hours. 
-
 <br>
 
 ## LOG
