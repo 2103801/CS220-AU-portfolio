@@ -63,23 +63,9 @@ Traffic stopping to talk to customers about fragrances and cosmetic products, ad
 07/2018 – 09/2018 &nbsp; &nbsp; My key responsibilities were answering the telephone, inputting accounts onto a database, going on test drives with other members of the team, persuading the customers to buy cars, filing and some reception work.
 
 
-<br>
-
-Here is an example on how to embed an image from an external website:
-
-![res](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-fraction.jpg)
 
 <br>
 
-And here is an example for embedding an audio player:
-
-<br>
-
-<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3437348308/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedor.bandcamp.com/album/secret-place-remixes">Secret Place + Remixes by Krisztián | tEdör | Hofstädter</a></iframe>
-
-<br>
-
-Here an example to embed a video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2nk_eLk1kGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
