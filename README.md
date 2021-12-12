@@ -62,14 +62,19 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
+### week 3
+- create LinkedIn account for social media link
 ### week 4 - websites
 #### index.md
-- link good minimal examples
-- beautify index.md
-    - add social media icons for hyperlinks
+- plan out website
+- consider potential images/videos needed if necessary
+### week 6
+- essay planning
+### week 8-10
+- completion of essay
 ## by week 12
-- complete at least half od the essay
-- have all basic parts of website completed
+- complete at least half of the essay
+- have most of website completed, just add final touches e.g images or links
 
 <br>
 
