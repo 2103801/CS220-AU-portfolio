@@ -64,7 +64,7 @@ Traffic stopping to talk to customers about fragrances and cosmetic products, ad
 
 
 <br>
-This video is an exmaple of why I chose this course as I believe that it could help me to achieve my dessire of working my dream job. 
+This video is an exmaple of why I chose this course as I believe that it could help me to achieve my desire of working my dream job. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=e9WbMdqMOxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
