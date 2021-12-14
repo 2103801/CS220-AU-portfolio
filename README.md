@@ -33,7 +33,8 @@
 ### week 6
 - essay planning
 ### week 8-10
-- completion of essay
-## by week 12
 - complete at least half of the essay
+## by week 12
+- completion of the essay
 - have most of website completed, just add final touches e.g images or links
+- peer assessment
