@@ -1,39 +1,11 @@
 # CS220 AU portfolio
 ## Overview
-This GitHub repository is a template for the [CS220 AU](https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world) assignment, your digital portfolio.
+- I used Github to create a webiste that displays my CV in a professional manner, I found Github straight forward to for desgning this website.
+- In my digital identites essay, I reflected on what a digital identity is and what my current digital identity is and how I can imporve it for the future using White et al.'s V&R Map.
 
-It demonstrates the use of [Markdown language](https://guides.github.com/features/mastering-markdown/) for
-- project management
-- writing articles
-- web-design with [GitHub Pages](https://pages.github.com/)
-- self-and peer-assessment
-- final checklist 
-
-The URL of the website, using the `index.md` file can be found in the sidebar of this repository, under 'About'. It is a very simple home page that you can amend with your own information.
 
 <br>
 
-## Portfolio items
-The portfolio you submit needs to contain the following:
-
-1. **website** (40% of your overall mark) - a simple website supporting your institutional/professional identity (or one of your projects) using the `index.md` file and the GitHub Pages function. The current `index.md` file is a basic example for outlining your professional identity - change it as necessary.
-2. **di reflection** (40% of your overall mark) - a short written work (essay) reflecting on developing your digital identities including both, visitor and resident modes (White, 2013). You can write this reflection in your preferred word editor (e.g. Word, Google Docs, Open Office) but you must submit it as a PDF file on FASER. If you are confident with this writing being public, please add it as an additional page to your website using Markdown language in the `di-reflection.md` file. The current content of this file can give you some ideas for reflecting on digital identities in general and on developing your own digital identities - change it as necessary.
-3. **self-and peer-assessment** (10% of your overall mark) - the CS220 AU marking rubric in the `assessment.md` file to help streamline your progress. Before you submit, use this file to evaluate your work and give feedback on one of your classmates' work.
-4. **portfolio overview** (10% of your overall mark) - a succinct overview of your portfolio and an outline of completed tasks (Log) and tasks to do (TODO) in the `README.md` file. Consider this `README.md` file, the one you are reading now, as a template - change it as necessary.
-
-After you finish these items, add your student number and your portfolio's URL in the `final-check.md` file, complete a checklist in this file and along with the PDF version of your DI reflection, submit it on FASER. 
-
-In essence, you need to submit two files on FASER:
-
-1. di-reflection.pdf
-2. final-check.md
-
-But, before you submit, please rename both files to contain your student number e.g. like this:
-
-1. 0610279-di-reflection.pdf
-2. 0610279-final-check.md
-
-<br>
 
 ## LOG
 
@@ -46,7 +18,8 @@ But, before you submit, please rename both files to contain your student number 
 - 05-12-2021 starting to draft essay
 - 10-12-2021 completed essay
 - 12-12-2021 finished website (basic, still need to add images, considering adding another page for essay)
-- 
+- 13-12-2021 embedded a youtube video that relates to my website to make it more interesting
+- 14-12-2021 got feedback from of of my peers.
 
 <br>
 
