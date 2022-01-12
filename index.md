@@ -3,7 +3,7 @@
 <br>
 Hello! My name is Ayomide Oyedele, aka Ayo. 
 
-I am a first year student, studying Global studies with business management at the University of Essex. I have a lot of interest in the business and tech world which is part of the reason I chose to do this course and more specifically, this module. This module is allowing me to develop my technological skills that will be beneficial to me in the future, based on the career path I want to go down. 
+I am a first year student, studying Global studies with business management at the University of Essex. I have a lot of interest in the business and tech world which is part of the reason I chose to do this course and more specifically, this module. This module is allowing me to develop my technological skills that will be beneficial to me in the future, based on the career path I want to persue. 
 
 <br>
 This video is an example and a small form of inspiration as to why I chose this course as I believe that it could help me to achieve my desire of working my dream job for a well-recognised tech company. 
