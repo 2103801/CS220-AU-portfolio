@@ -23,17 +23,22 @@
 
 <br>
 
-## TODO
+## TO DO
 ### week 3
-- create LinkedIn account for social media link (done)
+- create LinkedIn account for social media link. 
+#### DONE
 ### week 4 - website
-- plan out website (done)
-- consider potential images/videos needed if necessary (done)
+- plan out website 
+- consider potential images/videos needed if necessary 
+#### DONE
 ### week 6
-- essay planning (done)
+- essay planning 
+#### DONE
 ### week 8-10
-- complete at least half of the essay (done)
+- complete at least half of the essay 
+#### DONE
 ## by week 12
-- completion of the essay (done)
-- have most of website completed, just add final touches e.g images or links (done)
-- peer assessment (done)
+- completion of the essay 
+- have most of website completed, just add final touches e.g images or links 
+- peer assessment 
+#### DONE
