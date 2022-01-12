@@ -9,17 +9,17 @@
 
 ## LOG
 
-- 13-10-2021 introduction to the module 
-- 20-10-2021 creation of github account, created repositories and started to think about ideas for my website. 
-- 27-10-2021 talked about what makes a good website domain and the good softwares and websites to use when it comes to making a website. 
-- 29-10-2021 started to work on my website and plan what I will include to make it look professional and for it to be good quality.
-- 5-11-2021 planning of what my essay will be about.
-- 12-11-2021 changed the theme of my website to give it more personality.
-- 05-12-2021 starting to draft essay.
-- 10-12-2021 completed essay.
-- 12-12-2021 finished website (basic, still need to add images, considering adding another page for essay)
-- 13-12-2021 embedded a youtube video that relates to my website to make it more interesting and engaging.
 - 14-12-2021 got feedback from one of my peers.
+- 13-12-2021 embedded a youtube video that relates to my website to make it more interesting and engaging.
+- 12-12-2021 finished website (basic, still need to add images, considering adding another page for essay)
+- 10-12-2021 completed essay.
+- 05-12-2021 starting to draft essay.
+- 12-11-2021 changed the theme of my website to give it more personality.
+- 5-11-2021 planning of what my essay will be about.
+- 29-10-2021 started to work on my website and plan what I will include to make it look professional and for it to be good quality. Created a LinkedIn account.
+- 27-10-2021 talked about what makes a good website domain and the good softwares and websites to use when it comes to making a website. 
+- 20-10-2021 creation of github account, created repositories and started to think about ideas for my website.
+- 13-10-2021 introduction to the module 
 
 <br>
 
