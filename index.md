@@ -27,7 +27,7 @@ This video is an example and a small form of inspiration as to why I chose this 
 
 ## now
 - I have just completed my first term as a first year student in the University of Essex.
-- Studying the [CSS220 module] in which I have created my own professional website (https://2103801.github.io/CS220-AU-portfolio/) at the University of Essex.
+- Studying the CSS220 module in which I have created my own professional website at the University of Essex.
 - Studying 3 other modules in my course that cover history, business and philosophy topics.
 
 <br>
