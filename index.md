@@ -43,7 +43,7 @@ This video is an example and a small form of inspiration as to why I chose this 
 <br>
 
 ## work experience
-Alongside my previous and current studies I have been employed in retail jobs that have helped me develop important skills that can be adapted to any workplace. These include customer service skills, punctuality, teamworking skills, leadership skills and I developed a significant level independence. 
+Alongside my previous and current studies I have been employed in retail jobs that have helped me develop important skills that can be adapted for any workplace. These include customer service skills, punctuality, teamworking skills, leadership skills and I developed a significant level independence. 
 
 ### retail assistant positions
 
